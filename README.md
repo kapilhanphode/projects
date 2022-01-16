@@ -8,5 +8,5 @@ Web scraping is the process of extracting and parsing data from websites in an a
 * Parsing parts of a website using Beautiful Soup
 * Writing parsed information into CSV files
 * Using a REST API to retrieve data as JSON
-- Combining data from multiple sources
-- Using links on a page to crawl a website
+* Combining data from multiple sources
+* Using links on a page to crawl a website
